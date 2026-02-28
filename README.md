@@ -1,5 +1,5 @@
 # My changes
-Over the course of 2 months, I will be studying the kernels in dev/cuda as I work my way through the programming massively parallel programs book. I will try to use the knowledge I gained to improve kernel performance (if I can). Regardlessly, this repository is meant to serve as steppin-stone a on my way to building a micro torch library, and training a small neural network using it.
+Over the course of 2 months, I will be studying the kernels in dev/cuda as I work my way through the programming massively parallel programs book. I will try to use the knowledge I gained to improve kernel performance (if I can). Regardlessly, this repository is meant to serve as stepping-stone a on my way to building a micro torch library, and training a small neural network using it.
 
 # [ORIGINAL README]
 # llm.c
